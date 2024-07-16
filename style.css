@@ -11,9 +11,7 @@ td {
 td:hover {
   scale: 1.2;
   transition: 0.3s;
-  border:2px solid rgb(15, 8, 8);
-  border-radius: 5px;
-  z-index: 999;
+  
 }
 
 span {
